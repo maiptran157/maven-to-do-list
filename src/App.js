@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1 className="center">To do list</h1>
+        <h1 className="center yellow-text">To do list</h1>
         <ToDoList />
       </div>
     );
